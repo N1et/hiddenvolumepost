@@ -84,3 +84,5 @@ Este método é muito bom para esconder volumes para situações que a senha é 
 
 ### Fonte
 https://www.linuxvoice.com/hidden-encrypted-volumes-keep-data-safe-and-secret/
+
+Deus te abençõe. Ou não, eu sou ateu.
