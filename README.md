@@ -1,6 +1,6 @@
 # Hidden Volume – Dmcrypt
 
-Criptografar um volume pode ser muito útil, pois só vc tem acesso, e pode guardar o que quiser lá dentro. Mas tem certas situações onde isso torna inútil. Imagine que você tenha lá o seu dispositivo criptografado, e cheguem dois caras na sua porta e ameaçam afogar seu porquinho da índia no vazo sanitário se você não der a senha do seu dispositivo. Em um caso como esse, não há como negar a sua senha, você não viveria sem o Tom, o porquinho. Por isso, um método muito bom, seria você ter, dentro desse dispositivo, um volume oculto criptografado, a onde ficaria os dados sigilosos. Seria como um cofre dentro de outro cofre, sacou? vamos lá.
+Criptografar um volume pode ser muito útil pois só vc tem acesso e pode guardar o que quiser lá dentro. Mas tem certas situações onde isso torna inútil. Imagine que você tenha lá o seu dispositivo criptografado e cheguem dois caras na sua porta e ameaçam afogar seu porquinho da índia no vazo sanitário se você não der a senha do seu dispositivo. Em um caso como esse, não há como negar a sua senha, você não viveria sem o Tom, o porquinho. Por isso um método muito bom seria você ter, dentro desse dispositivo, um volume oculto criptografado a onde ficaria os dados sigilosos. Seria como um cofre dentro de outro cofre, sacou? vamos lá.
 
 ## CRIANDO O CONTAINER EXTERNO
 
